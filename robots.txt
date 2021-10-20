@@ -1,0 +1,6 @@
+//User-Agent:*
+//Allow:/index.html 
+
+User-Agent:*
+Disallow:/about.html
+Disallow:/contact.html
